@@ -1,0 +1,15 @@
+{
+    "name": "HvOProtokoll",
+    "description": "HvO Protokoll für den DRK KV BB",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Kai Schmid"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
